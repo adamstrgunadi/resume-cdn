@@ -198,29 +198,39 @@ body {
 
 @keyframes bgcolorchange {
   0% {
-    background-color: #01012a;
+    background-color: #08375f;
   }
   25% {
-    background-color: #1b1b97;
+    background-color: #025bc7;
   }
   50% {
-    background-color: #1b79eb;
+    background-color: #3f87df;
   }
   75% {
     background-color: #0d497c;
   }
   100% {
-    background-color: #01012a;
+    background-color: #08375f;
   }
 }
 
 /* Chrome, Safari, Opera */
 @-webkit-keyframes bgcolorchange {
-  0%   {background: #01012a;}
-  25%  {background: #1b1b97;}
-  50%  {background: #1b79eb;}
-  75%  {background: #0d497c;}
-  100% {background: #01012a;}
+  0% {
+    background: #08375f;
+  }
+  25% {
+    background: #025bc7;
+  }
+  50% {
+    background: #3f87df;
+  }
+  75% {
+    background: #0d497c;
+  }
+  100% {
+    background: #08375f;
+  }
 }
 
 #boxes {
